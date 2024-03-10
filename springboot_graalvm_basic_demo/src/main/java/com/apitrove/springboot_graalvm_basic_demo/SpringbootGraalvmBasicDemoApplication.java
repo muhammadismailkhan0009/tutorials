@@ -8,6 +8,7 @@ public class SpringbootGraalvmBasicDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootGraalvmBasicDemoApplication.class, args);
+
 	}
 
 }
