@@ -1,10 +1,10 @@
-package com.apitrove.springboot_graalvm_basic_demo;
+package com.apitrove.springboot_scheduler_demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportRuntimeHints;
 
-import com.apitrove.springboot_graalvm_basic_demo.configs.ApplicationHints;
+import com.apitrove.springboot_scheduler_demo.configs.ApplicationHints;
 
 @SpringBootApplication
 @ImportRuntimeHints(ApplicationHints.class)

@@ -1,9 +1,9 @@
-package com.apitrove.springboot_graalvm_basic_demo.controller;
+package com.apitrove.springboot_scheduler_demo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.apitrove.springboot_graalvm_basic_demo.dto.UserName;
+import com.apitrove.springboot_scheduler_demo.dto.UserName;
 
 @RestController
 public class SampleController {

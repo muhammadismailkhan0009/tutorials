@@ -1,9 +1,9 @@
-package com.apitrove.springboot_graalvm_basic_demo.configs;
+package com.apitrove.springboot_scheduler_demo.configs;
 
 import org.springframework.aot.hint.RuntimeHints;
 import org.springframework.aot.hint.RuntimeHintsRegistrar;
 
-import com.apitrove.springboot_graalvm_basic_demo.dto.UserName;
+import com.apitrove.springboot_scheduler_demo.dto.UserName;
 
 public class ApplicationHints implements RuntimeHintsRegistrar{
 

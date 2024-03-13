@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.apitrove</groupId>
-	<artifactId>springboot_graalvm_basic_demo</artifactId>
+	<artifactId>springboot_scheduler_demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot_graalvm_basic_demo</name>
+	<name>springboot_schedular_demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>

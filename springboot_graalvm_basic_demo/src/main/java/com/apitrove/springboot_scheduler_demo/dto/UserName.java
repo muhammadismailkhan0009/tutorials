@@ -1,4 +1,4 @@
-package com.apitrove.springboot_graalvm_basic_demo.dto;
+package com.apitrove.springboot_scheduler_demo.dto;
 
 import java.io.Serializable;
 
